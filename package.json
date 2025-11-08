@@ -1,0 +1,15 @@
+{
+  "name": "attendance-tracker",
+  "version": "1.0.0",
+  "description": "Weekly Salary Calculator & Attendance Tracker with Vercel Postgres",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/postgres": "^0.5.1"
+  },
+  "devDependencies": {
+    "vercel": "^34.0.0"
+  }
+}
+
